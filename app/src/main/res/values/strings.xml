@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TextView_Color_Changer_Assig3</string>
+    <string name="textview1">TextView1</string>
+    <string name="textview2">TextView2</string>
+    <string name="textview3">TextView3</string>
+    <string name="enter_1_2_or_3">Enter 1,2 or 3</string>
+    <string name="submit">Submit</string>
+</resources>
